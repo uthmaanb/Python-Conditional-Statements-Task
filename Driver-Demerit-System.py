@@ -8,5 +8,5 @@ print("Average speed: ", avg_speed)
 print("Allowed speed: ", allowed_speed)
 print("Points: ", points)
 
-if points >= 12:
-    print("TIME TO GO TO JAIL")
+if points > 12:
+    print("TIME TO GO TO JAIL!")
